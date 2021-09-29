@@ -1,0 +1,18 @@
+09.29 00.18
+"Duit Gajihan Buat Baikin Motor"
+1,Spakbor Belakang supra fit new
+2,Shock Belakang supra fit new
+3,Kap Kiri-kanan supra fit new
+4,Spedometer supra fit new
+5,Reflektor Stoplamp Belakang supra fit new
+6,Velg depan-belakang supra fit new
+7,Knalpot supra fit new
+8,Striping Wave
+9,Hendel rem depan supra fit new tromol
+10,Batok kepala supra fit new
+11,Kabel body supra fit new
+12,Aki Supra fit new
+
+
+
+
