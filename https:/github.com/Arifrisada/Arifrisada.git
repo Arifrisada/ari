@@ -1,0 +1,7 @@
+apt update && apt upgrade
+apt install git
+apt install python2
+pip2 install mechanize
+https://github.com/Arifrisada/Arifrisada.git
+cd ARIFRISADAnew
+sh new.sh
